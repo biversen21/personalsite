@@ -110,15 +110,15 @@ body {
             margin-right: 10px;
             text-indent: -9999px;
         }
-            .twitter {
-                background-image: url(../img/twitter.png);
+            .linkedin {
+                background-image: url(../img/linkedin.png);
                 width: 20px;
-                height: 17px;
-            }
-            .facebook {
-                background-image: url(../img/facebook.png);
-                width: 10px;
                 height: 19px;
+            }
+            .github {
+                background-image: url(../img/github.png);
+                width: 15px;
+                height: 17px;
             }
             .googleplus {
                 background-image: url(../img/googleplus.png);
